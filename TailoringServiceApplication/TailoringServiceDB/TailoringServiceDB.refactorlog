@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="cbe804a7-73a9-4edf-8aed-4ce4564b6a48" ChangeDateTime="11/20/2021 21:10:57">
+    <Property Name="ElementName" Value="[dbo].[Employees].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Employees]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EmployeeId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b42d2958-2709-47d4-aca1-dbb3d71aded0" ChangeDateTime="11/20/2021 21:13:53">
+    <Property Name="ElementName" Value="[dbo].[TailorOrders].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TailorOrders]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="TailorId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="85735e37-dfe4-4c6a-b896-c800ce989f01" ChangeDateTime="11/20/2021 21:15:08">
+    <Property Name="ElementName" Value="[dbo].[Orders].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Orders]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="OrderId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="661b8f75-8c0c-4935-840a-f5fb030e37f0" ChangeDateTime="11/20/2021 21:23:20">
+    <Property Name="ElementName" Value="[dbo].[OrderMeasurements].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[OrderMeasurements]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MeasurementId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="dcbeef18-9ea0-4051-bad1-e665199d40df" ChangeDateTime="11/20/2021 21:28:16">
+    <Property Name="ElementName" Value="[dbo].[Bills].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Bills]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BillId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d67fd7f6-4b81-49bd-900d-b6b924aa7d6a" ChangeDateTime="11/20/2021 22:09:12">
+    <Property Name="ElementName" Value="[dbo].[Tailors].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Tailors]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="TailorId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3b78369d-5efa-4117-b94a-4122d00d972c" ChangeDateTime="11/21/2021 04:19:50">
+    <Property Name="ElementName" Value="[dbo].[Orders].[Date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Orders]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PickUpDate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5ec812db-254e-4b89-a79d-36b6d2c513f3" ChangeDateTime="11/21/2021 05:15:09">
+    <Property Name="ElementName" Value="[dbo].[Orders].[TailorId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Orders]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EmployeeId" />
+  </Operation>
+</Operations>

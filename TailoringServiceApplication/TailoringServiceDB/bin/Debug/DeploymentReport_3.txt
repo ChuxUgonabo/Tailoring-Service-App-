@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Bills] (Table)
+       [dbo].[Employees] (Table)
+       [dbo].[Measurements] (Table)
+       [dbo].[Orders] (Table)
+       [dbo].[TailorOrders] (Table)
+       [dbo].[Tailors] (Table)
+       [dbo].[FK_Bills_Orders] (Foreign Key)
+       [dbo].[FK_Measurements_Orders] (Foreign Key)
+       [dbo].[PK_TailorOrders_Tailors] (Foreign Key)
+       [dbo].[FK_TailorOrders_Orders] (Foreign Key)
+
+** Supporting actions
