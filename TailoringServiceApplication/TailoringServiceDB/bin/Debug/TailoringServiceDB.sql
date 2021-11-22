@@ -40,6 +40,17 @@ USE [$(DatabaseName)];
 
 
 GO
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET RECOVERY FULL 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+GO
 /*
 Post-Deployment Script Template							
 --------------------------------------------------------------------------------------

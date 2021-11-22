@@ -120,6 +120,10 @@
       <Project>{e7894827-1888-4fa8-93fc-19e43d4dfe59}</Project>
       <Name>TailoringServiceCodeFirstFromDB</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TailoringServiceDB\TailoringServiceDB.sqlproj">
+      <Project>{1fc16fcd-c376-492f-b211-c25d0e0df00a}</Project>
+      <Name>TailoringServiceDB</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
