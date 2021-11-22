@@ -535,7 +535,7 @@ namespace TailoringServiceFormApplication
             this.Controls.Add(this.labelRegistrationOrderId);
             this.Name = "RegistrationForm";
             this.Text = "Registration Form";
-            this.Load += new System.EventHandler(this.RegistrationForm_Load);
+            //this.Load += new System.EventHandler(this.RegistrationForm_Load);
             this.panelMeasurement.ResumeLayout(false);
             this.panelMeasurement.PerformLayout();
             this.panelCustomerDetails.ResumeLayout(false);

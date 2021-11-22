@@ -220,7 +220,7 @@ namespace TailoringServiceFormApplication
             this.textBoxBillAdditionalInformation.Name = "textBoxBillAdditionalInformation";
             this.textBoxBillAdditionalInformation.Size = new System.Drawing.Size(436, 20);
             this.textBoxBillAdditionalInformation.TabIndex = 15;
-            this.textBoxBillAdditionalInformation.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            
             // 
             // labelBillInformation
             // 
@@ -429,7 +429,7 @@ namespace TailoringServiceFormApplication
             this.Controls.Add(this.labelTitle);
             this.Name = "BillForm";
             this.Text = "Bill Form";
-            this.Load += new System.EventHandler(this.BillForm_Load);
+           //This.Load += new System.EventHandler(this.BillForm_Load);
             this.panelBillCustomerInformation.ResumeLayout(false);
             this.panelBillCustomerInformation.PerformLayout();
             this.panelBillJobDetails.ResumeLayout(false);

@@ -3,3 +3,9 @@ C:\Users\Carrie Chen\Desktop\4050\TailoringServiceApplication\TailoringServiceAp
 C:\Users\Carrie Chen\Desktop\4050\TailoringServiceApplication\TailoringServiceApplication\TailoringServiceDB\bin\Debug\TailoringServiceDB.pdb
 C:\Users\Carrie Chen\Desktop\4050\TailoringServiceApplication\TailoringServiceApplication\TailoringServiceDB\obj\Debug\TailoringServiceDB.dll
 C:\Users\Carrie Chen\Desktop\4050\TailoringServiceApplication\TailoringServiceApplication\TailoringServiceDB\obj\Debug\TailoringServiceDB.pdb
+C:\Users\ormas\Desktop\Tailoring App Repository\Tailoring-Service-App-\TailoringServiceApplication\TailoringServiceDB\bin\Debug\TailoringServiceDB.dacpac
+C:\Users\ormas\Desktop\Tailoring App Repository\Tailoring-Service-App-\TailoringServiceApplication\TailoringServiceDB\bin\Debug\TailoringServiceDB.dll
+C:\Users\ormas\Desktop\Tailoring App Repository\Tailoring-Service-App-\TailoringServiceApplication\TailoringServiceDB\bin\Debug\TailoringServiceDB.pdb
+C:\Users\ormas\Desktop\Tailoring App Repository\Tailoring-Service-App-\TailoringServiceApplication\TailoringServiceDB\obj\Debug\TailoringServiceDB.sqlproj.AssemblyReference.cache
+C:\Users\ormas\Desktop\Tailoring App Repository\Tailoring-Service-App-\TailoringServiceApplication\TailoringServiceDB\obj\Debug\TailoringServiceDB.dll
+C:\Users\ormas\Desktop\Tailoring App Repository\Tailoring-Service-App-\TailoringServiceApplication\TailoringServiceDB\obj\Debug\TailoringServiceDB.pdb
