@@ -62,6 +62,12 @@
     <Compile Include="BillForm.Designer.cs">
       <DependentUpon>BillForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ManageOrdersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageOrdersForm.Designer.cs">
+      <DependentUpon>ManageOrdersForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="RegistrationForm.cs">
       <SubType>Form</SubType>
     </Compile>
